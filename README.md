@@ -1,4 +1,7 @@
 ## new project
+pulling and pushing to and from github
+
+tough work
 
 
 ### this is basically a pull trial
